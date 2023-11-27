@@ -2,7 +2,7 @@
 <pd:ProcessDefinition xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:pd="http://xmlns.tibco.com/bw/process/2003" xmlns:ns="http://www.tibco.com/pe/WriteToLogActivitySchema">
     <pd:name>Tests/Hello.process</pd:name>
     <pd:startName>Start</pd:startName>
-    <pd:startX>131</pd:startX>
+    <pd:startX>133</pd:startX>
     <pd:startY>78</pd:startY>
     <pd:returnBindings/>
     <pd:endName>End</pd:endName>
